@@ -1,0 +1,2 @@
+# premium-encas-001-encasement-layer-clear-glass-t
+Stop guessing your glass layer thickness—track every encasement layer with precision to avoid costly rework and ensure structural integrity.  This Notion template solves the problem of inconsistent glass thickness logging by providing a structured log that tracks each layer's clear glass thickness, installation date, and specifications. It's the be
